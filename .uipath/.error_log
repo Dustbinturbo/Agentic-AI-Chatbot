@@ -1,0 +1,42 @@
+
+--- Authentication Error Log 2026-03-22 12:52:39 ---
+[
+  {
+    "timestamp": "2026-03-22T07:22:39.348Z",
+    "message": "Authentication started",
+    "params": {
+      "code": "d201180c-69ec-4d38-afff-ca0097ceb697.1944377F105EFB1D9ED7AEEE9E1A72CBEC2CDFD14E41E34767EB0CD3A4472588",
+      "scope": "offline_access ProcessMining OrchestratorApiUserAccess StudioWebBackend IdentityServerApi ConnectionService DataService DataServiceApiUserAccess DocumentUnderstanding Du.Digitization.Api Du.Classification.Api Du.Extraction.Api Du.Validation.Api EnterpriseContextService Directory JamJamApi LLMGateway LLMOps OMS RCS.FolderAuthorization TM.Projects TM.TestCases TM.Requirements TM.TestSets AutomationSolutions AT.TrackOperations Docs.GPT.Search",
+      "state": "z4bJafTLYfbntAGuFkefwhD_AyIpU4sqU78SoOuLaDY",
+      "iss": "https://cloud.uipath.com/identity_"
+    }
+  }
+]
+
+--- Authentication Error Log 2026-03-22 14:10:37 ---
+[
+  {
+    "timestamp": "2026-03-22T08:40:36.849Z",
+    "message": "Authentication started",
+    "params": {
+      "code": "d201180c-69ec-4d38-afff-ca0097ceb697.179AD2CB4C484AB45F80DD397FCA3EC770B8AD998546C4BB2030B0F2F6E3732E",
+      "scope": "offline_access ProcessMining OrchestratorApiUserAccess StudioWebBackend IdentityServerApi ConnectionService DataService DataServiceApiUserAccess DocumentUnderstanding Du.Digitization.Api Du.Classification.Api Du.Extraction.Api Du.Validation.Api EnterpriseContextService Directory JamJamApi LLMGateway LLMOps OMS RCS.FolderAuthorization TM.Projects TM.TestCases TM.Requirements TM.TestSets AutomationSolutions AT.TrackOperations Docs.GPT.Search",
+      "state": "Aba6BwHuVJOPLyqTJRV1dmlClYvWgc7L06PtQW0il50",
+      "iss": "https://cloud.uipath.com/identity_"
+    }
+  }
+]
+
+--- Authentication Error Log 2026-05-06 11:45:23 ---
+[
+  {
+    "timestamp": "2026-05-06T06:15:22.693Z",
+    "message": "Authentication started",
+    "params": {
+      "code": "d201180c-69ec-4d38-afff-ca0097ceb697.35AC2FE8BED1093E4AFD6D5D8C844C7BD5EA91EF77829A34DE259512BBA57020",
+      "scope": "offline_access ProcessMining OrchestratorApiUserAccess StudioWebBackend IdentityServerApi ConnectionService DataService DataServiceApiUserAccess DocumentUnderstanding Du.Digitization.Api Du.Classification.Api Du.Extraction.Api Du.Validation.Api EnterpriseContextService Directory JamJamApi LLMGateway LLMOps OMS RCS.FolderAuthorization TM.Projects TM.TestCases TM.Requirements TM.TestSets AutomationSolutions AT.TrackOperations Docs.GPT.Search",
+      "state": "bS_qbSSeGmq3iSTBXuikiVar5mBNsa5Vjr9j500Ewao",
+      "iss": "https://cloud.uipath.com/identity_"
+    }
+  }
+]
