@@ -1,6 +1,7 @@
-# 🤖 Agentic AI Chatbot
+# 🤖 Coded Agent Chatbot
 
 An intelligent Agentic AI Chatbot built with Python and deployed on the **UiPath Cloud** platform. The agent can reason, plan, and take actions autonomously using LangGraph workflows.
+The AI uses question answer format to answer the queries or give output to queries.
 
 ---
 
@@ -10,6 +11,7 @@ An intelligent Agentic AI Chatbot built with Python and deployed on the **UiPath
 - ☁️ Integrated with UiPath Cloud system
 - 🔄 Built using LangGraph for agent workflow management
 - 🐍 Python-based with a clean modular structure
+- ❓ You ask anything for topic and it answers in Question Answer format.
 
 ---
 
