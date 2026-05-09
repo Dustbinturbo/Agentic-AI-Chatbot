@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 load_dotenv()
+load_dotenv(override=True) 
 import os
 # ✅ Validate required env vars on startup
 REQUIRED_ENV_VARS = ["UIPATH_URL", "UIPATH_ACCESS_TOKEN"]
